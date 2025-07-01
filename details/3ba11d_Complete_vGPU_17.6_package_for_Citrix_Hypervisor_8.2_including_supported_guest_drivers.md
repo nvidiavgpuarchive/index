@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Citrix Hypervisor](/index/Driver/Citrix_Hypervisor.md)  >  [platformVersion : 8.2](/index/Driver/Citrix_Hypervisor/8.2.md)  >  **Complete vGPU 17.6 package for Citrix Hypervisor 8.2 including supported guest drivers**
 
 
-###    Complete vGPU 17.6 package for Citrix Hypervisor 8.2 including supported guest drivers
-
-> NVIDIA-GRID-CitrixHypervisor-8.2-550.163.02-550.163.01-553.74.zip   
-
+### NVIDIA-GRID-CitrixHypervisor-8.2-550.163.02-550.163.01-553.74.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

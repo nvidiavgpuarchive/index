@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Citrix Hypervisor](/index/Driver/Citrix_Hypervisor.md)  >  [platformVersion : 7.6](/index/Driver/Citrix_Hypervisor/7.6.md)  >  **NVIDIA vGPU for Citrix Hypervisor 7.6**
 
 
-###    NVIDIA vGPU for Citrix Hypervisor 7.6
-
-> NVIDIA-GRID-XenServer-7.x-410.122-412.38.zip   
-
+### NVIDIA-GRID-XenServer-7.x-410.122-412.38.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

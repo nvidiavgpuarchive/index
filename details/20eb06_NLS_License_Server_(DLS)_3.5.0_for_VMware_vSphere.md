@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [VMware vSphere](/index/NonDriver/VMware_vSphere.md)  >  [2025-05-22](/index/NonDriver/VMware_vSphere/2025-05-22.md)  >  **NLS License Server (DLS) 3.5.0 for VMware vSphere**
 
 
-###    NLS License Server (DLS) 3.5.0 for VMware vSphere
-
-> nls-3.5.0-bios-ESXi.zip   
-
+### nls-3.5.0-bios-ESXi.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

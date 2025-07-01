@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Microsoft Azure Stack HCI](/index/Driver/Microsoft_Azure_Stack_HCI.md)  >  [All Supported](/index/Driver/Microsoft_Azure_Stack_HCI/All_Supported.md)  >  **Complete vGPU 17.1 package for Microsoft Azure Stack HCI 22H2 and 22H3 including supported guest drivers**
 
 
-###    Complete vGPU 17.1 package for Microsoft Azure Stack HCI 22H2 and 22H3 including supported guest drivers
-
-> NVIDIA-GRID-Azure_Stack_HCI-550.54.15-551.60-551.78.zip   
-
+### NVIDIA-GRID-Azure_Stack_HCI-550.54.15-551.60-551.78.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

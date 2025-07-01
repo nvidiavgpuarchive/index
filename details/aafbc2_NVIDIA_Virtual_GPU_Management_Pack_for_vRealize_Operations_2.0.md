@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [VMware vRealize Operations](/index/NonDriver/VMware_vRealize_Operations.md)  >  **NVIDIA Virtual GPU Management Pack for vRealize Operations 2.0**
 
 
-###    NVIDIA Virtual GPU Management Pack for vRealize Operations 2.0
-
-> nvgpu_NVIDIA-GRID-VMware-vROPS2.0.zip   
-
+### nvgpu_NVIDIA-GRID-VMware-vROPS2.0.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

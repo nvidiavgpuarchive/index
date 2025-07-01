@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [VMware vSphere](/index/Driver/VMware_vSphere.md)  >  [platformVersion : 9.0](/index/Driver/VMware_vSphere/9.0.md)  >  **Complete vGPU 18.3 package for VMware vSphere 9.0 including supported guest drivers**
 
 
-###    Complete vGPU 18.3 package for VMware vSphere 9.0 including supported guest drivers
-
-> NVIDIA-GRID-vSphere-9.0-570.158.02-570.158.01-573.39.zip   
-
+### NVIDIA-GRID-vSphere-9.0-570.158.02-570.158.01-573.39.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

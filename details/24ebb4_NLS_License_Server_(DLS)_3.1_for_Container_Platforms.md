@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [Container](/index/NonDriver/Container.md)  >  **NLS License Server (DLS) 3.1 for Container Platforms**
 
 
-###    NLS License Server (DLS) 3.1 for Container Platforms
-
-> nvgpu_nls-3.1.0-bios.zip   
-
+### nvgpu_nls-3.1.0-bios.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

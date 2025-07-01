@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Microsoft Hyper-V Server](/index/Driver/Microsoft_Hyper-V_Server.md)  >  [All Supported](/index/Driver/Microsoft_Hyper-V_Server/All_Supported.md)  >  **DDA (GPU Passthrough) driver package with vGPU 16.10 for Microsoft platforms**
 
 
-###    DDA (GPU Passthrough) driver package with vGPU 16.10 for Microsoft platforms
-
-> nvgpu_NVIDIA-GRID-Windows-535.247.01-539.28.zip   
-
+### nvgpu_NVIDIA-GRID-Windows-535.247.01-539.28.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

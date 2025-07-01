@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [XenServer](/index/Driver/XenServer.md)  >  **Complete vGPU 18.0 package for XenServer 8 including supported guest drivers**
 
 
-###    Complete vGPU 18.0 package for XenServer 8 including supported guest drivers
-
-> nvgpu_NVIDIA-GRID-XenServer-8-570.124.03-570.124.06-572.60.zip   
-
+### nvgpu_NVIDIA-GRID-XenServer-8-570.124.03-570.124.06-572.60.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [Citrix Hypervisor](/index/NonDriver/Citrix_Hypervisor.md)  >  [2023-10-18](/index/NonDriver/Citrix_Hypervisor/2023-10-18.md)  >  **NLS License Server Security Patch (DLS) 3.1.1 for Citrix Hypervisor**
 
 
-###    NLS License Server Security Patch (DLS) 3.1.1 for Citrix Hypervisor
-
-> nls-3.1.1-bios-XenServer.zip   
-
+### nls-3.1.1-bios-XenServer.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

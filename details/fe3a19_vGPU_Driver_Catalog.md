@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [vGPU Driver Catalog](/index/NonDriver/vGPU_Driver_Catalog.md)  >  **vGPU Driver Catalog**
 
 
-###    vGPU Driver Catalog
-
-> vgpuDriverCatalog.yaml   
-
+### vgpuDriverCatalog.yaml
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

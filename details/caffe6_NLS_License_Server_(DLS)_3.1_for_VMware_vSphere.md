@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [VMware vSphere](/index/NonDriver/VMware_vSphere.md)  >  [2023-06-21](/index/NonDriver/VMware_vSphere/2023-06-21.md)  >  **NLS License Server (DLS) 3.1 for VMware vSphere**
 
 
-###    NLS License Server (DLS) 3.1 for VMware vSphere
-
-> nvgpu_nls-3.1.0-bios-ESXi.zip   
-
+### nvgpu_nls-3.1.0-bios-ESXi.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

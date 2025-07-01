@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [Microsoft Hyper-V](/index/NonDriver/Microsoft_Hyper-V.md)  >  [2022-08-29](/index/NonDriver/Microsoft_Hyper-V/2022-08-29.md)  >  **NLS License Server (DLS) 2.0.1 for Microsoft Hyper-V**
 
 
-###    NLS License Server (DLS) 2.0.1 for Microsoft Hyper-V
-
-> nvgpu_nls-2.0.1-bios-hyper-v.zip   
-
+### nvgpu_nls-2.0.1-bios-hyper-v.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

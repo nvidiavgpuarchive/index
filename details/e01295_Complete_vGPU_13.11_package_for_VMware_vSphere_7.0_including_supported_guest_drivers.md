@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [VMware vSphere](/index/Driver/VMware_vSphere.md)  >  [platformVersion : 7.0](/index/Driver/VMware_vSphere/7.0.md)  >  **Complete vGPU 13.11 package for VMware vSphere 7.0 including supported guest drivers**
 
 
-###    Complete vGPU 13.11 package for VMware vSphere 7.0 including supported guest drivers
-
-> NVIDIA-GRID-vSphere-7.0-470.256.02-475.06.zip   
-
+### NVIDIA-GRID-vSphere-7.0-470.256.02-475.06.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

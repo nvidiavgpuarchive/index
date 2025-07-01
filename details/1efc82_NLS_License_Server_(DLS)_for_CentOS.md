@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [DLS Base OS](/index/NonDriver/DLS_Base_OS.md)  >  **NLS License Server (DLS) for CentOS**
 
 
-###    NLS License Server (DLS) for CentOS
-
-> DLS1.0CentOSSource.zip   
-
+### DLS1.0CentOSSource.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

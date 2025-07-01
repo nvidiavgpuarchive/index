@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Microsoft Hyper-V Server](/index/Driver/Microsoft_Hyper-V_Server.md)  >  [2008 R2](/index/Driver/Microsoft_Hyper-V_Server/2008_R2.md)  >  **Complete DDA GPU driver package for Microsoft platforms**
 
 
-###    Complete DDA GPU driver package for Microsoft platforms
-
-> NVIDIA-GRID-Window-390.42-391.03.zip   
-
+### NVIDIA-GRID-Window-390.42-391.03.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

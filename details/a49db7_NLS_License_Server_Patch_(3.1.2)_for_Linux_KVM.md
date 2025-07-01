@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [Linux KVM](/index/NonDriver/Linux_KVM.md)  >  [2024-03-06](/index/NonDriver/Linux_KVM/2024-03-06.md)  >  **NLS License Server Patch (3.1.2) for Linux KVM**
 
 
-###    NLS License Server Patch (3.1.2) for Linux KVM
-
-> nvgpu_nls-3.1.2-bios-KVM.zip   
-
+### nvgpu_nls-3.1.2-bios-KVM.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

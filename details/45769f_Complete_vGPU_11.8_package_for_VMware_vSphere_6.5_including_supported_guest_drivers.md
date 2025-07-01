@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [VMware vSphere](/index/Driver/VMware_vSphere.md)  >  [platformVersion : 6.5](/index/Driver/VMware_vSphere/6.5.md)  >  **Complete vGPU 11.8 package for VMware vSphere 6.5 including supported guest drivers**
 
 
-###    Complete vGPU 11.8 package for VMware vSphere 6.5 including supported guest drivers
-
-> nvgpu_NVIDIA-GRID-vSphere-6.5-450.191-450.191.01-453.51.zip   
-
+### nvgpu_NVIDIA-GRID-vSphere-6.5-450.191-450.191.01-453.51.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Microsoft Hyper-V Server](/index/Driver/Microsoft_Hyper-V_Server.md)  >  [All Supported](/index/Driver/Microsoft_Hyper-V_Server/All_Supported.md)  >  **Complete vGPU 17.3 DDA GPU driver package for Microsoft platforms**
 
 
-###    Complete vGPU 17.3 DDA GPU driver package for Microsoft platforms
-
-> NVIDIA-GRID-Windows-550.90.07-552.74.zip   
-
+### NVIDIA-GRID-Windows-550.90.07-552.74.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

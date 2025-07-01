@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [Linux KVM](/index/NonDriver/Linux_KVM.md)  >  [2024-10-16](/index/NonDriver/Linux_KVM/2024-10-16.md)  >  **NLS License Server (DLS) 3.1.4 for Linux KVM**
 
 
-###    NLS License Server (DLS) 3.1.4 for Linux KVM
-
-> nvgpu_nls-3.1.4-bios-KVM.zip   
-
+### nvgpu_nls-3.1.4-bios-KVM.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Red Hat Enterprise Linux KVM](/index/Driver/Red_Hat_Enterprise_Linux_KVM.md)  >  [platformVersion : 9.2](/index/Driver/Red_Hat_Enterprise_Linux_KVM/9.2.md)  >  **Complete vGPU 17.3 package for RHEL 9.2 including supported guest drivers**
 
 
-###    Complete vGPU 17.3 package for RHEL 9.2 including supported guest drivers
-
-> NVIDIA-GRID-RHEL-9.2-550.90.05-550.90.07-552.74.zip   
-
+### NVIDIA-GRID-RHEL-9.2-550.90.05-550.90.07-552.74.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

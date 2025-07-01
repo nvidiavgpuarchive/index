@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Linux KVM](/index/Driver/Linux_KVM.md)  >  [All Supported](/index/Driver/Linux_KVM/All_Supported.md)  >  **NVIDIA vGPU for Linux KVM ALL**
 
 
-###    NVIDIA vGPU for Linux KVM ALL
-
-> NVIDIA-GRID-Linux-KVM-460.32.04-460.32.03-461.33.zip   
-
+### NVIDIA-GRID-Linux-KVM-460.32.04-460.32.03-461.33.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

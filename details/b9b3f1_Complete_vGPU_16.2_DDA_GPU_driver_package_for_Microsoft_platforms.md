@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Microsoft Hyper-V Server](/index/Driver/Microsoft_Hyper-V_Server.md)  >  [All Supported](/index/Driver/Microsoft_Hyper-V_Server/All_Supported.md)  >  **Complete vGPU 16.2 DDA GPU driver package for Microsoft platforms**
 
 
-###    Complete vGPU 16.2 DDA GPU driver package for Microsoft platforms
-
-> NVIDIA-GRID-Windows-535.129.03-537.70.zip   
-
+### NVIDIA-GRID-Windows-535.129.03-537.70.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

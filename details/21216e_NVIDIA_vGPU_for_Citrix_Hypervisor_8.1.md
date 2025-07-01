@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Citrix Hypervisor](/index/Driver/Citrix_Hypervisor.md)  >  [platformVersion : 8.1](/index/Driver/Citrix_Hypervisor/8.1.md)  >  **NVIDIA vGPU for Citrix Hypervisor 8.1**
 
 
-###    NVIDIA vGPU for Citrix Hypervisor 8.1
-
-> nvgpu_NVIDIA-GRID-XenServer-8.1-440.43-441.66.zip   
-
+### nvgpu_NVIDIA-GRID-XenServer-8.1-440.43-441.66.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

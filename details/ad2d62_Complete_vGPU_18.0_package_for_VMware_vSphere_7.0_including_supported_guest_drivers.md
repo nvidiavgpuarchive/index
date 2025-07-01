@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [VMware vSphere](/index/Driver/VMware_vSphere.md)  >  [platformVersion : 7.0](/index/Driver/VMware_vSphere/7.0.md)  >  **Complete vGPU 18.0 package for VMware vSphere 7.0 including supported guest drivers**
 
 
-###    Complete vGPU 18.0 package for VMware vSphere 7.0 including supported guest drivers
-
-> nvgpu_NVIDIA-GRID-vSphere-7.0-570.124.03-570.124.06-572.60.zip   
-
+### nvgpu_NVIDIA-GRID-vSphere-7.0-570.124.03-570.124.06-572.60.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Red Hat Enterprise Linux KVM](/index/Driver/Red_Hat_Enterprise_Linux_KVM.md)  >  [platformVersion : 8.7](/index/Driver/Red_Hat_Enterprise_Linux_KVM/8.7.md)  >  **Complete vGPU package for RHEL KVM 8.7 including supported guest drivers**
 
 
-###    Complete vGPU package for RHEL KVM 8.7 including supported guest drivers
-
-> nvgpu_NVIDIA-GRID-RHEL-8.7-450.216.04-454.02.zip   
-
+### nvgpu_NVIDIA-GRID-RHEL-8.7-450.216.04-454.02.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

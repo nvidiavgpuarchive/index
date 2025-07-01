@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Nutanix AHV](/index/Driver/Nutanix_AHV.md)  >  [platformVersion : 5.5](/index/Driver/Nutanix_AHV/5.5.md)  >  **NVIDIA vGPU for AHV 5.5**
 
 
-###    NVIDIA vGPU for AHV 5.5
-
-> NVIDIA-GRID-AHV-5.5_5.6-384.155-386.57.zip   
-
+### NVIDIA-GRID-AHV-5.5_5.6-384.155-386.57.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

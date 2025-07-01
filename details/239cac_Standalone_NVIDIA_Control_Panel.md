@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [NVIDIA Control Panel](/index/Driver/NVIDIA_Control_Panel.md)  >  **Standalone NVIDIA Control Panel**
 
 
-###    Standalone NVIDIA Control Panel
-
-> Standalone_NVCPL.zip   
-
+### Standalone_NVCPL.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

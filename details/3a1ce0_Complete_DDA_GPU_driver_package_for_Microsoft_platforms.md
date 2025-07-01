@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Microsoft Hyper-V Server](/index/Driver/Microsoft_Hyper-V_Server.md)  >  [platformVersion : 2019](/index/Driver/Microsoft_Hyper-V_Server/2019.md)  >  **Complete DDA GPU driver package for Microsoft platforms**
 
 
-###    Complete DDA GPU driver package for Microsoft platforms
-
-> NVIDIA-GRID-Windows-418.181.07-427.11.zip   
-
+### NVIDIA-GRID-Windows-418.181.07-427.11.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

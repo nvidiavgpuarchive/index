@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [VMware vSphere](/index/Driver/VMware_vSphere.md)  >  [platformVersion : 7.0](/index/Driver/VMware_vSphere/7.0.md)  >  **Complete vGPU package for vSphere 7.0 including supported guest drivers**
 
 
-###    Complete vGPU package for vSphere 7.0 including supported guest drivers
-
-> NVIDIA-GRID-vSphere-7.0-450.248.03-450.248.02-454.23.zip   
-
+### NVIDIA-GRID-vSphere-7.0-450.248.03-450.248.02-454.23.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

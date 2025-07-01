@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [VMware vSphere](/index/Driver/VMware_vSphere.md)  >  [platformVersion : 8.0](/index/Driver/VMware_vSphere/8.0.md)  >  **Complete vGPU 16.1 package for VMware vSphere 8.0 including supported guest drivers**
 
 
-###    Complete vGPU 16.1 package for VMware vSphere 8.0 including supported guest drivers
-
-> NVIDIA-GRID-vSphere-8.0-535.104.06-535.104.05-537.13.zip   
-
+### NVIDIA-GRID-vSphere-8.0-535.104.06-535.104.05-537.13.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

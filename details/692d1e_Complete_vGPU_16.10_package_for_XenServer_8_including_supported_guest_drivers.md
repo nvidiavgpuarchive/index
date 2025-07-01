@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [XenServer](/index/Driver/XenServer.md)  >  **Complete vGPU 16.10 package for XenServer 8 including supported guest drivers**
 
 
-###    Complete vGPU 16.10 package for XenServer 8 including supported guest drivers
-
-> NVIDIA-GRID-XenServer-8-535.247.02-535.247.01-539.28.zip   
-
+### NVIDIA-GRID-XenServer-8-535.247.02-535.247.01-539.28.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

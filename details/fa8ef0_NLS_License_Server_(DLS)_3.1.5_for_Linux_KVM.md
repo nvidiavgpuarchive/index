@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [Linux KVM](/index/NonDriver/Linux_KVM.md)  >  [2025-01-16](/index/NonDriver/Linux_KVM/2025-01-16.md)  >  **NLS License Server (DLS) 3.1.5 for Linux KVM**
 
 
-###    NLS License Server (DLS) 3.1.5 for Linux KVM
-
-> nls-3.1.5-bios-KVM.zip   
-
+### nls-3.1.5-bios-KVM.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

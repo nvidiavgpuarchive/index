@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Citrix XenServer](/index/Driver/Citrix_XenServer.md)  >  [platformVersion : 7.1](/index/Driver/Citrix_XenServer/7.1.md)  >  **Complete vGPU 11.8 package for Citrix XenServer 7.1 including supported guest drivers**
 
 
-###    Complete vGPU 11.8 package for Citrix XenServer 7.1 including supported guest drivers
-
-> NVIDIA-GRID-XenServer-7.1-450.191-450.191.01-453.51.zip   
-
+### NVIDIA-GRID-XenServer-7.1-450.191-450.191.01-453.51.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

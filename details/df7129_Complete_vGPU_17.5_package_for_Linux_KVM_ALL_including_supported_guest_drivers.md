@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Linux KVM](/index/Driver/Linux_KVM.md)  >  [All Supported](/index/Driver/Linux_KVM/All_Supported.md)  >  **Complete vGPU 17.5 package for Linux KVM ALL including supported guest drivers**
 
 
-###    Complete vGPU 17.5 package for Linux KVM ALL including supported guest drivers
-
-> nvgpu_NVIDIA-GRID-Linux-KVM-550.144.02-550.144.03-553.62.zip   
-
+### nvgpu_NVIDIA-GRID-Linux-KVM-550.144.02-550.144.03-553.62.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [Linux KVM](/index/NonDriver/Linux_KVM.md)  >  [2020-07-08](/index/NonDriver/Linux_KVM/2020-07-08.md)  >  **NVIDIA vGPU for Linux KVM 8.2**
 
 
-###    NVIDIA vGPU for Linux KVM 8.2
-
-> NVIDIA-GRID-Linux-KVM-450.55-450.51.05-451.48.zip   
-
+### NVIDIA-GRID-Linux-KVM-450.55-450.51.05-451.48.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

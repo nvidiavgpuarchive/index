@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [VMware vSphere](/index/Driver/VMware_vSphere.md)  >  [platformVersion : 7.0](/index/Driver/VMware_vSphere/7.0.md)  >  **Complete vGPU 13.4 package for VMware vSphere 7.0 including supported guest drivers**
 
 
-###    Complete vGPU 13.4 package for VMware vSphere 7.0 including supported guest drivers
-
-> nvgpu_NVIDIA-GRID-vSphere-7.0-470.141.05-470.141.03-473.81.zip   
-
+### nvgpu_NVIDIA-GRID-vSphere-7.0-470.141.05-470.141.03-473.81.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

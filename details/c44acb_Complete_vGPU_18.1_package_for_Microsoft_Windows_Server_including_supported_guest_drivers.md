@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Microsoft Windows Server](/index/Driver/Microsoft_Windows_Server.md)  >  **Complete vGPU 18.1 package for Microsoft Windows Server including supported guest drivers**
 
 
-###    Complete vGPU 18.1 package for Microsoft Windows Server including supported guest drivers
-
-> nvgpu_NVIDIA-GRID-Windows_Server_Host-570.133.20-572.83.zip   
-
+### nvgpu_NVIDIA-GRID-Windows_Server_Host-570.133.20-572.83.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

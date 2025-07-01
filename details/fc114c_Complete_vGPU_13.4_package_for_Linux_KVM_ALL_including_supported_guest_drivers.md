@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Linux KVM](/index/Driver/Linux_KVM.md)  >  [All Supported](/index/Driver/Linux_KVM/All_Supported.md)  >  **Complete vGPU 13.4 package for Linux KVM ALL including supported guest drivers**
 
 
-###    Complete vGPU 13.4 package for Linux KVM ALL including supported guest drivers
-
-> nvgpu_NVIDIA-GRID-Linux-KVM-470.141.05-470.141.03-473.81.zip   
-
+### nvgpu_NVIDIA-GRID-Linux-KVM-470.141.05-470.141.03-473.81.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

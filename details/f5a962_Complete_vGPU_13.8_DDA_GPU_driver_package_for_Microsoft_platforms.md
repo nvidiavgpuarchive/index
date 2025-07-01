@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Microsoft Hyper-V Server](/index/Driver/Microsoft_Hyper-V_Server.md)  >  [All Supported](/index/Driver/Microsoft_Hyper-V_Server/All_Supported.md)  >  **Complete vGPU 13.8 DDA GPU driver package for Microsoft platforms**
 
 
-###    Complete vGPU 13.8 DDA GPU driver package for Microsoft platforms
-
-> nvgpu_NVIDIA-GRID-Windows-470.199.02-474.44.zip   
-
+### nvgpu_NVIDIA-GRID-Windows-470.199.02-474.44.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

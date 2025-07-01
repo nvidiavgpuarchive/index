@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [Microsoft Hyper-V](/index/NonDriver/Microsoft_Hyper-V.md)  >  [2024-03-06](/index/NonDriver/Microsoft_Hyper-V/2024-03-06.md)  >  **NLS License Server Security Patch (DLS) 3.1.2 for Microsoft Hyper-V**
 
 
-###    NLS License Server Security Patch (DLS) 3.1.2 for Microsoft Hyper-V
-
-> nls-3.1.2-bios-hyper-v.zip   
-
+### nls-3.1.2-bios-hyper-v.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Ubuntu KVM](/index/Driver/Ubuntu_KVM.md)  >  [All Supported](/index/Driver/Ubuntu_KVM/All_Supported.md)  >  **NVIDIA vGPU for Ubuntu KVM ALL**
 
 
-###    NVIDIA vGPU for Ubuntu KVM ALL
-
-> nvgpu_NVIDIA-GRID-Ubuntu-KVM-470.103.02-470.103.01-472.98.zip   
-
+### nvgpu_NVIDIA-GRID-Ubuntu-KVM-470.103.02-470.103.01-472.98.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

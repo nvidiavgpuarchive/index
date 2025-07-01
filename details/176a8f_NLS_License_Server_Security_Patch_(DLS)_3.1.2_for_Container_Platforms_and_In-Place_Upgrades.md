@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [Container](/index/NonDriver/Container.md)  >  **NLS License Server Security Patch (DLS) 3.1.2 for Container Platforms and In-Place Upgrades**
 
 
-###    NLS License Server Security Patch (DLS) 3.1.2 for Container Platforms and In-Place Upgrades
-
-> nvgpu_nls-3.1.2-bios.zip   
-
+### nvgpu_nls-3.1.2-bios.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

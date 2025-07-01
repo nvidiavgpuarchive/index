@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [Container](/index/NonDriver/Container.md)  >  **NLS License Server (DLS) 2.1 for Container Platforms**
 
 
-###    NLS License Server (DLS) 2.1 for Container Platforms
-
-> nls-2.1.0-bios.zip   
-
+### nls-2.1.0-bios.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [DLS Base OS](/index/NonDriver/DLS_Base_OS.md)  >  **NLS License Server (DLS) 3.2 Source code**
 
 
-###    NLS License Server (DLS) 3.2 Source code
-
-> SourceCode.zip   
-
+### SourceCode.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

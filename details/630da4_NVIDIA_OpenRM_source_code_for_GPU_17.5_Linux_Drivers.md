@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [Linux](/index/NonDriver/Linux.md)  >  **NVIDIA OpenRM source code for GPU 17.5 Linux Drivers**
 
 
-###    NVIDIA OpenRM source code for GPU 17.5 Linux Drivers
-
-> nvgpu_NVIDIA-kernel-module-source-570.86.16.tar.xz   
-
+### nvgpu_NVIDIA-kernel-module-source-570.86.16.tar.xz
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

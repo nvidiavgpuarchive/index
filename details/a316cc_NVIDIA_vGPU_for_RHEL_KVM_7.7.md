@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Red Hat Enterprise Linux KVM](/index/Driver/Red_Hat_Enterprise_Linux_KVM.md)  >  [platformVersion : 7.7](/index/Driver/Red_Hat_Enterprise_Linux_KVM/7.7.md)  >  **NVIDIA vGPU for RHEL KVM 7.7**
 
 
-###    NVIDIA vGPU for RHEL KVM 7.7
-
-> NVIDIA-GRID-RHEL-7.7-470.82-470.82.01-472.39.zip   
-
+### NVIDIA-GRID-RHEL-7.7-470.82-470.82.01-472.39.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

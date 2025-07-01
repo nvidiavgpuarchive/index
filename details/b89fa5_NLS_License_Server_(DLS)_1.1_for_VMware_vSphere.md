@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [VMware vSphere](/index/NonDriver/VMware_vSphere.md)  >  [2022-02-14](/index/NonDriver/VMware_vSphere/2022-02-14.md)  >  **NLS License Server (DLS) 1.1 for VMware vSphere**
 
 
-###    NLS License Server (DLS) 1.1 for VMware vSphere
-
-> nls-1.1.0-bios-ESXi.zip   
-
+### nls-1.1.0-bios-ESXi.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

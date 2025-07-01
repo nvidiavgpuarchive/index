@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [platformName : OTHER](/index/NonDriver/OTHER.md)  >  **GPUMode Change Utility for Tesla M60 and M6 GPUs**
 
 
-###    GPUMode Change Utility for Tesla M60 and M6 GPUs
-
-> nvgpu_NVIDIA-gpumodeswitch-2020-01.zip   
-
+### nvgpu_NVIDIA-gpumodeswitch-2020-01.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

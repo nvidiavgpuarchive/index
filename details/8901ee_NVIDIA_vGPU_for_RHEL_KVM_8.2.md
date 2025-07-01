@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Red Hat Enterprise Linux KVM](/index/Driver/Red_Hat_Enterprise_Linux_KVM.md)  >  [platformVersion : 8.2](/index/Driver/Red_Hat_Enterprise_Linux_KVM/8.2.md)  >  **NVIDIA vGPU for RHEL KVM 8.2**
 
 
-###    NVIDIA vGPU for RHEL KVM 8.2
-
-> NVIDIA-GRID-RHEL-8.2-470.103.02-470.103.01-472.98.zip   
-
+### NVIDIA-GRID-RHEL-8.2-470.103.02-470.103.01-472.98.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

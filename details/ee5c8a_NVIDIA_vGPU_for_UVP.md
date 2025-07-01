@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Huawei UVP](/index/Driver/Huawei_UVP.md)  >  **NVIDIA vGPU for UVP**
 
 
-###    NVIDIA vGPU for UVP
-
-> nvgpu_NVIDIA-GRID-UVP-367.123-370.17.zip   
-
+### nvgpu_NVIDIA-GRID-UVP-367.123-370.17.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

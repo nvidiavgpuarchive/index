@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [VMware vSphere](/index/Driver/VMware_vSphere.md)  >  [platformVersion : 6.7](/index/Driver/VMware_vSphere/6.7.md)  >  **NVIDIA vGPU for vSphere 6.7**
 
 
-###    NVIDIA vGPU for vSphere 6.7
-
-> NVIDIA-GRID-vSphere-6.7-470.103.02-470.103.01-472.98.zip   
-
+### NVIDIA-GRID-vSphere-6.7-470.103.02-470.103.01-472.98.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

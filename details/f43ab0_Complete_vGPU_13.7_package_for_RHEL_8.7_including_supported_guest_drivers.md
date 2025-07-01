@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Red Hat Enterprise Linux KVM](/index/Driver/Red_Hat_Enterprise_Linux_KVM.md)  >  [platformVersion : 8.7](/index/Driver/Red_Hat_Enterprise_Linux_KVM/8.7.md)  >  **Complete vGPU 13.7 package for RHEL 8.7 including supported guest drivers**
 
 
-###    Complete vGPU 13.7 package for RHEL 8.7 including supported guest drivers
-
-> NVIDIA-GRID-RHEL-8.7-470.182.02-470.182.03-474.30.zip   
-
+### NVIDIA-GRID-RHEL-8.7-470.182.02-470.182.03-474.30.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

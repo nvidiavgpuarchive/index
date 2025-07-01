@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Ubuntu KVM](/index/Driver/Ubuntu_KVM.md)  >  [All Supported](/index/Driver/Ubuntu_KVM/All_Supported.md)  >  **Complete vGPU 18.1 package for Ubuntu KVM including supported guest drivers**
 
 
-###    Complete vGPU 18.1 package for Ubuntu KVM including supported guest drivers
-
-> nvgpu_NVIDIA-GRID-Ubuntu-KVM-570.133.10-570.133.20-572.83.zip   
-
+### nvgpu_NVIDIA-GRID-Ubuntu-KVM-570.133.10-570.133.20-572.83.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [Microsoft Hyper-V](/index/NonDriver/Microsoft_Hyper-V.md)  >  [2024-03-21](/index/NonDriver/Microsoft_Hyper-V/2024-03-21.md)  >  **NLS License Server (DLS) 3.3 for Microsoft Hyper-V**
 
 
-###    NLS License Server (DLS) 3.3 for Microsoft Hyper-V
-
-> nvgpu_nls-3.3.0-bios-hyper-v.zip   
-
+### nvgpu_nls-3.3.0-bios-hyper-v.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

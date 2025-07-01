@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [Container](/index/NonDriver/Container.md)  >  **NLS License Server (DLS) 3.1.6 for Container Platforms and In-Place Upgrades**
 
 
-###    NLS License Server (DLS) 3.1.6 for Container Platforms and In-Place Upgrades
-
-> nls-3.1.6-bios.zip   
-
+### nls-3.1.6-bios.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

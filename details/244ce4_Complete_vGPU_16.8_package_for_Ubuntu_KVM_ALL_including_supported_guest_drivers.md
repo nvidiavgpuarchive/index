@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Ubuntu KVM](/index/Driver/Ubuntu_KVM.md)  >  [All Supported](/index/Driver/Ubuntu_KVM/All_Supported.md)  >  **Complete vGPU 16.8 package for Ubuntu KVM ALL including supported guest drivers**
 
 
-###    Complete vGPU 16.8 package for Ubuntu KVM ALL including supported guest drivers
-
-> nvgpu_NVIDIA-GRID-Ubuntu-KVM-535.216.01-538.95.zip   
-
+### nvgpu_NVIDIA-GRID-Ubuntu-KVM-535.216.01-538.95.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

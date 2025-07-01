@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Red Hat Enterprise Linux KVM](/index/Driver/Red_Hat_Enterprise_Linux_KVM.md)  >  [platformVersion : 8.10](/index/Driver/Red_Hat_Enterprise_Linux_KVM/8.10.md)  >  **Complete vGPU 13.12 package for RHEL 8.10 including supported guest drivers**
 
 
-###    Complete vGPU 13.12 package for RHEL 8.10 including supported guest drivers
-
-> NVIDIA-GRID-RHEL-8.10-470.256.02-475.14.zip   
-
+### NVIDIA-GRID-RHEL-8.10-470.256.02-475.14.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

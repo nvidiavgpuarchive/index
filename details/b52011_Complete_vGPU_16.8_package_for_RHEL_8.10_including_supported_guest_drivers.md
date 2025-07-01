@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Red Hat Enterprise Linux KVM](/index/Driver/Red_Hat_Enterprise_Linux_KVM.md)  >  [platformVersion : 8.10](/index/Driver/Red_Hat_Enterprise_Linux_KVM/8.10.md)  >  **Complete vGPU 16.8 package for RHEL 8.10 including supported guest drivers**
 
 
-###    Complete vGPU 16.8 package for RHEL 8.10 including supported guest drivers
-
-> nvgpu_NVIDIA-GRID-RHEL-8.10-535.216.01-538.95.zip   
-
+### nvgpu_NVIDIA-GRID-RHEL-8.10-535.216.01-538.95.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

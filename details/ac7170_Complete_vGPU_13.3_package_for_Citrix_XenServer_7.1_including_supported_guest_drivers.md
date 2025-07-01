@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Citrix XenServer](/index/Driver/Citrix_XenServer.md)  >  [platformVersion : 7.1](/index/Driver/Citrix_XenServer/7.1.md)  >  **Complete vGPU 13.3 package for Citrix XenServer 7.1 including supported guest drivers**
 
 
-###    Complete vGPU 13.3 package for Citrix XenServer 7.1 including supported guest drivers
-
-> NVIDIA-GRID-XenServer-7.1-470.129.04-470.129.06-473.47.zip   
-
+### NVIDIA-GRID-XenServer-7.1-470.129.04-470.129.06-473.47.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

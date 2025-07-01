@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Microsoft Azure Stack HCI](/index/Driver/Microsoft_Azure_Stack_HCI.md)  >  [22H2](/index/Driver/Microsoft_Azure_Stack_HCI/22H2.md)  >  **Complete vGPU 16.4 package for Microsoft Azure Stack HCI 22H2 including supported guest drivers**
 
 
-###    Complete vGPU 16.4 package for Microsoft Azure Stack HCI 22H2 including supported guest drivers
-
-> NVIDIA-GRID-Azure_Stack_HCI-535.161.07-538.33.zip   
-
+### NVIDIA-GRID-Azure_Stack_HCI-535.161.07-538.33.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Red Hat Enterprise Linux KVM](/index/Driver/Red_Hat_Enterprise_Linux_KVM.md)  >  [platformVersion : 9.0](/index/Driver/Red_Hat_Enterprise_Linux_KVM/9.0.md)  >  **Complete vGPU 16.2 package for RHEL 9.0 including supported guest drivers**
 
 
-###    Complete vGPU 16.2 package for RHEL 9.0 including supported guest drivers
-
-> nvgpu_NVIDIA-GRID-RHEL-9.0-535.129.03-537.70.zip   
-
+### nvgpu_NVIDIA-GRID-RHEL-9.0-535.129.03-537.70.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

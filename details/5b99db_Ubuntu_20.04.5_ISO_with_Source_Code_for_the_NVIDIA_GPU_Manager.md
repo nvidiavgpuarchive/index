@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [Ubuntu](/index/NonDriver/Ubuntu.md)  >  **Ubuntu 20.04.5 ISO with Source Code for the NVIDIA GPU Manager**
 
 
-###    Ubuntu 20.04.5 ISO with Source Code for the NVIDIA GPU Manager
-
-> Ubuntu_20.04.5_source_code.zip   
-
+### Ubuntu_20.04.5_source_code.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

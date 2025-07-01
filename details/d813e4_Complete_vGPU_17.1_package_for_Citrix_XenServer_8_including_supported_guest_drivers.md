@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Citrix XenServer](/index/Driver/Citrix_XenServer.md)  >  [platformVersion : 8](/index/Driver/Citrix_XenServer/8.md)  >  **Complete vGPU 17.1 package for Citrix XenServer 8 including supported guest drivers**
 
 
-###    Complete vGPU 17.1 package for Citrix XenServer 8 including supported guest drivers
-
-> NVIDIA-GRID-XenServer-8-550.54.16-550.54.15-551.78.zip   
-
+### NVIDIA-GRID-XenServer-8-550.54.16-550.54.15-551.78.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

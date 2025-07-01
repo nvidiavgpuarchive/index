@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Microsoft Hyper-V Server](/index/Driver/Microsoft_Hyper-V_Server.md)  >  [platformVersion : 2022](/index/Driver/Microsoft_Hyper-V_Server/2022.md)  >  **Complete DDA GPU driver package for Microsoft platforms**
 
 
-###    Complete DDA GPU driver package for Microsoft platforms
-
-> NVIDIA-GRID-Windows-510.47.03-511.65.zip   
-
+### NVIDIA-GRID-Windows-510.47.03-511.65.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Red Hat Enterprise Linux KVM](/index/Driver/Red_Hat_Enterprise_Linux_KVM.md)  >  [platformVersion : 8.6](/index/Driver/Red_Hat_Enterprise_Linux_KVM/8.6.md)  >  **Complete vGPU 15.2 package for RHEL 8.6 including supported guest drivers**
 
 
-###    Complete vGPU 15.2 package for RHEL 8.6 including supported guest drivers
-
-> NVIDIA-GRID-RHEL-8.6-525.105.14-525.105.17-528.89.zip   
-
+### NVIDIA-GRID-RHEL-8.6-525.105.14-525.105.17-528.89.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

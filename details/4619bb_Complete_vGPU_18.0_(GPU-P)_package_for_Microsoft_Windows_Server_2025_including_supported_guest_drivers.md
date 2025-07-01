@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Microsoft Windows Server](/index/Driver/Microsoft_Windows_Server.md)  >  **Complete vGPU 18.0 (GPU-P) package for Microsoft Windows Server 2025 including supported guest drivers**
 
 
-###    Complete vGPU 18.0 (GPU-P) package for Microsoft Windows Server 2025 including supported guest drivers
-
-> NVIDIA-GRID-Windows_Server_Host-572.60-570.124.06-572.60.zip   
-
+### NVIDIA-GRID-Windows_Server_Host-572.60-570.124.06-572.60.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

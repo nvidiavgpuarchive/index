@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Red Hat Enterprise Linux KVM](/index/Driver/Red_Hat_Enterprise_Linux_KVM.md)  >  [platformVersion : 9.2](/index/Driver/Red_Hat_Enterprise_Linux_KVM/9.2.md)  >  **Complete vGPU 15.4 package for RHEL 9.2 including supported guest drivers**
 
 
-###    Complete vGPU 15.4 package for RHEL 9.2 including supported guest drivers
-
-> NVIDIA-GRID-RHEL-9.2-525.147.01-525.147.05-529.19.zip   
-
+### NVIDIA-GRID-RHEL-9.2-525.147.01-525.147.05-529.19.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Ubuntu KVM](/index/Driver/Ubuntu_KVM.md)  >  [All Supported](/index/Driver/Ubuntu_KVM/All_Supported.md)  >  **Complete vGPU 13.11 package for Ubuntu KVM ALL including supported guest drivers**
 
 
-###    Complete vGPU 13.11 package for Ubuntu KVM ALL including supported guest drivers
-
-> NVIDIA-GRID-Ubuntu-KVM-470.256.02-475.06.zip   
-
+### NVIDIA-GRID-Ubuntu-KVM-470.256.02-475.06.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

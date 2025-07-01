@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Citrix XenServer](/index/Driver/Citrix_XenServer.md)  >  [platformVersion : 7.1](/index/Driver/Citrix_XenServer/7.1.md)  >  **NVIDIA vGPU for XenServer 7.1**
 
 
-###    NVIDIA vGPU for XenServer 7.1
-
-> NVIDIA-GRID-XenServer-7.1-418.240-427.71.zip   
-
+### NVIDIA-GRID-XenServer-7.1-418.240-427.71.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

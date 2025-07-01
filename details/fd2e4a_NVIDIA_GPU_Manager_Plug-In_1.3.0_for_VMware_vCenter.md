@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [VMware vCenter](/index/NonDriver/VMware_vCenter.md)  >  **NVIDIA GPU Manager Plug-In 1.3.0 for VMware vCenter**
 
 
-###    NVIDIA GPU Manager Plug-In 1.3.0 for VMware vCenter
-
-> nvgpu_nvidia-gpu-manager-for-vCenter-1.3.0.zip   
-
+### nvgpu_nvidia-gpu-manager-for-vCenter-1.3.0.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

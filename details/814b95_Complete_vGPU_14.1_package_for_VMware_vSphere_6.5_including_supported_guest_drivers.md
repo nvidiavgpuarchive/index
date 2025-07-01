@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [VMware vSphere](/index/Driver/VMware_vSphere.md)  >  [platformVersion : 6.5](/index/Driver/VMware_vSphere/6.5.md)  >  **Complete vGPU 14.1 package for VMware vSphere 6.5 including supported guest drivers**
 
 
-###    Complete vGPU 14.1 package for VMware vSphere 6.5 including supported guest drivers
-
-> NVIDIA-GRID-vSphere-6.5-510.73.06-510.73.08-512.78.zip   
-
+### NVIDIA-GRID-vSphere-6.5-510.73.06-510.73.08-512.78.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

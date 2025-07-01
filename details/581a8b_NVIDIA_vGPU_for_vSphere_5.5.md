@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [VMware vSphere](/index/Driver/VMware_vSphere.md)  >  [platformVersion : 5.5](/index/Driver/VMware_vSphere/5.5.md)  >  **NVIDIA vGPU for vSphere 5.5**
 
 
-###    NVIDIA vGPU for vSphere 5.5
-
-> NVIDIA-GRID-vSphere-5.5-390.42-391.03.zip   
-
+### NVIDIA-GRID-vSphere-5.5-390.42-391.03.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [Linux](/index/NonDriver/Linux.md)  >  **NVIDIA OpenRM source code for vGPU 17.2 Linux drivers**
 
 
-###    NVIDIA OpenRM source code for vGPU 17.2 Linux drivers
-
-> nvgpu_NVIDIA-kernel-module-source-550.90.05.tar.xz   
-
+### nvgpu_NVIDIA-kernel-module-source-550.90.05.tar.xz
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

@@ -2,10 +2,7 @@
 [NonDriver](/README.md)  >  [Red Hat Enterprise Linux OS](/index/NonDriver/Red_Hat_Enterprise_Linux_OS.md)  >  **NLS License Server (DLS) 3.3.1 - Container with Orchestrator Platform for Red Hat Enterprise Linux 9 OS**
 
 
-###    NLS License Server (DLS) 3.3.1 - Container with Orchestrator Platform for Red Hat Enterprise Linux 9 OS
-
-> nvgpu_nls-3.3.1-bios-Hybrid.zip   
-
+### nvgpu_nls-3.3.1-bios-Hybrid.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|

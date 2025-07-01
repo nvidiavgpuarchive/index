@@ -2,10 +2,7 @@
 [Driver](/README.md)  >  [Microsoft Azure Local](/index/Driver/Microsoft_Azure_Local.md)  >  **Complete vGPU 17.5 package for Microsoft Azure Local including supported guest drivers**
 
 
-###    Complete vGPU 17.5 package for Microsoft Azure Local including supported guest drivers
-
-> nvgpu_NVIDIA-GRID-Azure_Local-553.56-550.144.03-553.62.zip   
-
+### nvgpu_NVIDIA-GRID-Azure_Local-553.56-550.144.03-553.62.zip
 
 | **File Size** | **Torrent**  | **HTTP Link** | **Internet Archive** |
 |:-------------:|:------------:|:-------------:|:--------------------:|
