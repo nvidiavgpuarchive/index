@@ -29,13 +29,15 @@ All drivers uploaded to the Internet Archive are checked rigorously for integrit
 - **Checksum Matching**: Each file’s checksum is validated before and after the upload.
 - **Compressed Files**: The integrity of compressed files is verified for zip files.
 
+Note: When you download from internet archive, either via torrent or http, you are getting a zip file that includes all files in the archive bucket including the core driver zip and other trivial files such as metadata. All checksums and virustotal scans refers to the core driver file enclosed in the "overall" zip. So don't be alarmed if the md5 checksum doesn't match up, double check.
+
 If you encounter a broken archive, raise an issue and we'll fix it asap.
 
-### Repository Resources
-- **dump.json**: A JSON file that fully describes this repository.
+### Repository Overview
+- **Index**: See below. You may use the index to narrow down and locate what you are looking for in <5 clicks.
+- **Search**: Type `/` to search in the whole repo, title, filename or md5.
+- **dump.json**: A JSON file that fully describes this repo so you can access the information programmatically.
 - **Driver Catalogue**: Located in the "Non-Drivers / Misc" section, provides devices id and driver compatibility information.
-- **Index**: The repository maintains structured indexes for both drivers and non-drivers, aiding navigation.
-- **Search**: You can search directly within the repository if you have specific files in mind.
 
 Downloading via **torrents** is highly recommended:
 - The torrent files are seeded by the Internet Archive (via HTTP sources), which ensures high download speeds on top of IA bandwidth.
