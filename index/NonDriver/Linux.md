@@ -5,6 +5,8 @@
 
 | Description            | Product Version    | Platform                | Platform Version           | Release Date           |             Actions              |
 | ---------------------- | :----------------- | :---------------------- | -------------------------- | :--------------------- | :------------------------------: |
+| NVIDIA OpenRM source code for vGPU 19.1 Linux Drivers | 580.82.02 | Linux | All Supported | 2025-08-25 | [View Details](/details/422053_NVIDIA_OpenRM_source_code_for_vGPU_19.1_Linux_Drivers.md) |
+| NVIDIA OpenRM source code for vGPU 19.0 Linux Drivers | 580.65.05 | Linux | All Supported | 2025-07-25 | [View Details](/details/693e7a_NVIDIA_OpenRM_source_code_for_vGPU_19.0_Linux_Drivers.md) |
 | NVIDIA OpenRM source code for vGPU 18.3 Linux Drivers | 575.64 | Linux | All Supported | 2025-06-25 | [View Details](/details/2d8817_NVIDIA_OpenRM_source_code_for_vGPU_18.3_Linux_Drivers.md) |
 | NVIDIA OpenRM source code for vGPU 18.2 Linux Drivers | 575.57.08 | Linux | All Supported | 2025-05-25 | [View Details](/details/3d6e6e_NVIDIA_OpenRM_source_code_for_vGPU_18.2_Linux_Drivers.md) |
 | NVIDIA OpenRM source code for vGPU 18.1 Linux Drivers | 570.133.20 | Linux | All Supported | 2025-03-25 | [View Details](/details/63ea63_NVIDIA_OpenRM_source_code_for_vGPU_18.1_Linux_Drivers.md) |

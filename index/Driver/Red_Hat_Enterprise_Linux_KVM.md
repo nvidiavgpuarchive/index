@@ -5,15 +5,15 @@
 
 | Platformversion | Last Updated |  Count | Filter | 
 |---|:-------:|:-------:|:----:| 
-| 10.0 | 2025-06-17|   1 |  [Apply](/index/Driver/Red_Hat_Enterprise_Linux_KVM/10.0.md) |
-| 9.6 | 2025-06-17|   1 |  [Apply](/index/Driver/Red_Hat_Enterprise_Linux_KVM/9.6.md) |
+| 10.0 | 2025-08-05|   3 |  [Apply](/index/Driver/Red_Hat_Enterprise_Linux_KVM/10.0.md) |
+| 9.6 | 2025-08-05|   4 |  [Apply](/index/Driver/Red_Hat_Enterprise_Linux_KVM/9.6.md) |
 | 9.5 | 2025-05-27|   7 |  [Apply](/index/Driver/Red_Hat_Enterprise_Linux_KVM/9.5.md) |
-| 9.4 | 2025-06-17|   14 |  [Apply](/index/Driver/Red_Hat_Enterprise_Linux_KVM/9.4.md) |
+| 9.4 | 2025-08-05|   17 |  [Apply](/index/Driver/Red_Hat_Enterprise_Linux_KVM/9.4.md) |
 | 9.3 | 2024-03-26|   4 |  [Apply](/index/Driver/Red_Hat_Enterprise_Linux_KVM/9.3.md) |
 | 9.2 | 2025-05-27|   23 |  [Apply](/index/Driver/Red_Hat_Enterprise_Linux_KVM/9.2.md) |
 | 9.1 | 2023-03-30|   3 |  [Apply](/index/Driver/Red_Hat_Enterprise_Linux_KVM/9.1.md) |
 | 9.0 | 2024-03-26|   17 |  [Apply](/index/Driver/Red_Hat_Enterprise_Linux_KVM/9.0.md) |
-| 8.10 | 2025-06-17|   16 |  [Apply](/index/Driver/Red_Hat_Enterprise_Linux_KVM/8.10.md) |
+| 8.10 | 2025-08-05|   19 |  [Apply](/index/Driver/Red_Hat_Enterprise_Linux_KVM/8.10.md) |
 | 8.9 | 2024-03-26|   6 |  [Apply](/index/Driver/Red_Hat_Enterprise_Linux_KVM/8.9.md) |
 | 8.8 | 2025-06-17|   30 |  [Apply](/index/Driver/Red_Hat_Enterprise_Linux_KVM/8.8.md) |
 | 8.7 | 2023-03-30|   11 |  [Apply](/index/Driver/Red_Hat_Enterprise_Linux_KVM/8.7.md) |

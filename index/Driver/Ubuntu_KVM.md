@@ -5,4 +5,4 @@
 
 | Platformversion | Last Updated |  Count | Filter | 
 |---|:-------:|:-------:|:----:| 
-| All Supported | 2025-06-17|   44 |  [Apply](/index/Driver/Ubuntu_KVM/All_Supported.md) |
+| All Supported | 2025-08-05|   47 |  [Apply](/index/Driver/Ubuntu_KVM/All_Supported.md) |

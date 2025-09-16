@@ -5,6 +5,8 @@
 
 | Description            | Product Version    | Platform                | Platform Version           | Release Date           |             Actions              |
 | ---------------------- | :----------------- | :---------------------- | -------------------------- | :--------------------- | :------------------------------: |
+| Complete vGPU 19.0 DDA GPU driver package for Microsoft platforms | 19.0 | Microsoft Hyper-V Server | All Supported | 2025-08-05 | [View Details](/details/a8ff74_Complete_vGPU_19.0_DDA_GPU_driver_package_for_Microsoft_platforms.md) |
+| Complete vGPU 18.4 DDA GPU driver package for Microsoft platforms | 18.4 | Microsoft Hyper-V Server | All Supported | 2025-07-17 | [View Details](/details/aceb0c_Complete_vGPU_18.4_DDA_GPU_driver_package_for_Microsoft_platforms.md) |
 | Complete vGPU 18.3 DDA GPU driver package for Microsoft platforms | 18.3 | Microsoft Hyper-V Server | All Supported | 2025-06-17 | [View Details](/details/63b066_Complete_vGPU_18.3_DDA_GPU_driver_package_for_Microsoft_platforms.md) |
 | Complete vGPU 18.2 DDA GPU driver package for Microsoft platforms | 18.2 | Microsoft Hyper-V Server | All Supported | 2025-05-27 | [View Details](/details/613b4f_Complete_vGPU_18.2_DDA_GPU_driver_package_for_Microsoft_platforms.md) |
 | DDA (GPU Passthrough) driver package with vGPU 18.1 for Microsoft platforms | 18.1 | Microsoft Hyper-V Server | All Supported | 2025-04-17 | [View Details](/details/e8b8de_DDA_(GPU_Passthrough)_driver_package_with_vGPU_18.1_for_Microsoft_platforms.md) |
@@ -16,6 +18,7 @@
 | Complete vGPU 17.2 DDA GPU driver package for Microsoft platforms | 17.2 | Microsoft Hyper-V Server | All Supported | 2024-06-04 | [View Details](/details/b8c3cf_Complete_vGPU_17.2_DDA_GPU_driver_package_for_Microsoft_platforms.md) |
 | Complete vGPU 17.1 DDA GPU driver package for Microsoft platforms | 17.1 | Microsoft Hyper-V Server | All Supported | 2024-03-26 | [View Details](/details/02af45_Complete_vGPU_17.1_DDA_GPU_driver_package_for_Microsoft_platforms.md) |
 | Complete vGPU 17.0 DDA GPU driver package for Microsoft platforms | 17.0 | Microsoft Hyper-V Server | All Supported | 2024-02-26 | [View Details](/details/61ba92_Complete_vGPU_17.0_DDA_GPU_driver_package_for_Microsoft_platforms.md) |
+| Complete vGPU 16.11 package for Microsoft Windows Server including supported guest drivers | 16.11 | Microsoft Hyper-V Server | All Supported | 2025-07-17 | [View Details](/details/d63168_Complete_vGPU_16.11_package_for_Microsoft_Windows_Server_including_supported_guest_drivers.md) |
 | DDA (GPU Passthrough) driver package with vGPU 16.10 for Microsoft platforms | 16.10 | Microsoft Hyper-V Server | All Supported | 2025-04-17 | [View Details](/details/861d4c_DDA_(GPU_Passthrough)_driver_package_with_vGPU_16.10_for_Microsoft_platforms.md) |
 | Complete vGPU 16.9 DDA GPU driver package for Microsoft platforms | 16.9 | Microsoft Hyper-V Server | All Supported | 2025-01-16 | [View Details](/details/e412ef_Complete_vGPU_16.9_DDA_GPU_driver_package_for_Microsoft_platforms.md) |
 | Complete vGPU 16.8 DDA GPU driver package for Microsoft platforms | 16.8 | Microsoft Hyper-V Server | All Supported | 2024-10-22 | [View Details](/details/4881d9_Complete_vGPU_16.8_DDA_GPU_driver_package_for_Microsoft_platforms.md) |
