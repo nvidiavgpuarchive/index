@@ -25,7 +25,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `d76213806f6497bb558bfc015ad77830`
+*MD5 Checksum: `d76213806f6497bb558bfc015ad77830`*
 
 ```text
 NVIDIA-GRID-Linux-KVM-470.63-470.63.01-471.68/

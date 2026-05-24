@@ -21,7 +21,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `9479215209dcaafcc913492bc0c70956`
+*MD5 Checksum: `9479215209dcaafcc913492bc0c70956`*
 
 ```text
 ubuntuSourceCode.tar.gz

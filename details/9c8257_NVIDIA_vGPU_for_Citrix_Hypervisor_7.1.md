@@ -25,7 +25,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `030965148d4cd276acdd8ba28dffb91b`
+*MD5 Checksum: `030965148d4cd276acdd8ba28dffb91b`*
 
 ```text
 NVIDIA-GRID-XenServer-7.1-470.63-470.63.01-471.68/

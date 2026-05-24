@@ -21,7 +21,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `910b346df214636cfbcc47dfd54ec0ea`
+*MD5 Checksum: `910b346df214636cfbcc47dfd54ec0ea`*
 
 ```text
 nls-3.2.0-bios.xva

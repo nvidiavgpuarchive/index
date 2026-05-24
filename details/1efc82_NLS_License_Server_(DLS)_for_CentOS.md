@@ -21,7 +21,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `a0cf77cb07e8fc64ab8d3ef7d8ec1b22`
+*MD5 Checksum: `a0cf77cb07e8fc64ab8d3ef7d8ec1b22`*
 
 ```text
 DLS1.0CentOSSource.tar.gz

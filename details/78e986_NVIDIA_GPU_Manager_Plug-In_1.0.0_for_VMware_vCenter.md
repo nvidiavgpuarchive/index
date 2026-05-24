@@ -24,7 +24,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `6028294c384e97f6ff6b610c7f3ca168`
+*MD5 Checksum: `6028294c384e97f6ff6b610c7f3ca168`*
 
 ```text
 nvidia-gpu-manager_1.0.0.ova

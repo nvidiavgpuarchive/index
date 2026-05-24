@@ -25,7 +25,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `96504021dea8f06ff2c79b1028f27aac`
+*MD5 Checksum: `96504021dea8f06ff2c79b1028f27aac`*
 
 ```text
 NvCplSetupInt.exe

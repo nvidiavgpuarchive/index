@@ -21,7 +21,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `6effd5e9155ef5ba72fadf350110f457`
+*MD5 Checksum: `6effd5e9155ef5ba72fadf350110f457`*
 
 ```text
 nls-3.1.1-bios.qcow2

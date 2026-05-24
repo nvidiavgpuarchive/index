@@ -24,7 +24,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `788452d7b08ae57d374cadf180f9bb52`
+*MD5 Checksum: `788452d7b08ae57d374cadf180f9bb52`*
 
 ```text
 grid-management-pack-vmware-vrops-release-notes.pdf

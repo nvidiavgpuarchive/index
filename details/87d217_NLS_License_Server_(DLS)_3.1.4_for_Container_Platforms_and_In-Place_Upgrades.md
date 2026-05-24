@@ -22,7 +22,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `22139e8b369a21528617b74d24d0afd9`
+*MD5 Checksum: `22139e8b369a21528617b74d24d0afd9`*
 
 ```text
 nls-3.1.4-bios/

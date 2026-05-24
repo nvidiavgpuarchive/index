@@ -25,7 +25,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `81414bf19af8396840758738cd856595`
+*MD5 Checksum: `81414bf19af8396840758738cd856595`*
 
 ```text
 410.92-410.91-412.16-grid-license-server-release-notes.pdf

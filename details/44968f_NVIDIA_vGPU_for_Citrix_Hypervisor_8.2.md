@@ -25,7 +25,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `a9039efe0df019e3a0ab92ea290e79af`
+*MD5 Checksum: `a9039efe0df019e3a0ab92ea290e79af`*
 
 ```text
 NVIDIA-GRID-CitrixHypervisor-8.2-470.63-470.63.01-471.68/

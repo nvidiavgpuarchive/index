@@ -1,5 +1,5 @@
 
-[NonDriver](/README.md)  >  [Linux](/index/NonDriver/Linux.md)  >  **NVIDIA OpenRM source code for vGPU 19.1 Linux Drivers**
+[NonDriver](/README.md)  >  [Linux](/index/NonDriver/Linux.md)  >  [2025-08-25](/index/NonDriver/Linux/2025-08-25.md)  >  **NVIDIA OpenRM source code for vGPU 19.1 Linux Drivers**
 
 
 ### NVIDIA-kernel-module-source-580.82.02.tar.xz
@@ -24,11 +24,5 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `b8081fc7f22627b0407886da6a02712a`
+*MD5 Checksum: `b8081fc7f22627b0407886da6a02712a`*
 
-```text
-<p>This item contains a specific version of the NVIDIA vGPU driver for a particular platform, preserved for archival and reference purposes only. You can find metadata for this item below and download options to the right.</p>
-<p><i>Downloading via torrent is encouraged.</i></p>
-<p>For more information about this project and a complete list of all archived drivers, please visit <a href="https://github.com/nvidiavgpuarchive/hub" rel="ugc nofollow">nvidiavgpuarchive/hub</a>.</p>
-<hr />
-```

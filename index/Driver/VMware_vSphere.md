@@ -5,8 +5,9 @@
 
 | Platformversion | Last Updated |  Count | Filter | 
 |---|:-------:|:-------:|:----:| 
-| 9.0 | 2025-08-05|   3 |  [Apply](/index/Driver/VMware_vSphere/9.0.md) |
-| 8.0 | 2025-08-05|   30 |  [Apply](/index/Driver/VMware_vSphere/8.0.md) |
+| 9.0 | 2026-04-28|   12 |  [Apply](/index/Driver/VMware_vSphere/9.0.md) |
+| 8.0 | 2026-04-28|   40 |  [Apply](/index/Driver/VMware_vSphere/8.0.md) |
+| 8 | 2026-01-13|   2 |  [Apply](/index/Driver/VMware_vSphere/8.md) |
 | 7.0 | 2025-04-17|   63 |  [Apply](/index/Driver/VMware_vSphere/7.0.md) |
 | 6.7 | 2022-08-02|   52 |  [Apply](/index/Driver/VMware_vSphere/6.7.md) |
 | 6.5 | 2022-08-02|   60 |  [Apply](/index/Driver/VMware_vSphere/6.5.md) |

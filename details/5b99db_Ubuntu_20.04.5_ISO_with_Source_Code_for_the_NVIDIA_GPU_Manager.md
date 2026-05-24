@@ -23,7 +23,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `162906fa4f5c01df9f66b2fcccf8e0ca`
+*MD5 Checksum: `162906fa4f5c01df9f66b2fcccf8e0ca`*
 
 ```text
 Ubuntu 20.04.5 Source code/

@@ -23,11 +23,5 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `8d042a888374f98a4a578794c135186e`
+*MD5 Checksum: `8d042a888374f98a4a578794c135186e`*
 
-```text
-<p>This item contains a specific version of the NVIDIA vGPU driver for a particular platform, preserved for archival and reference purposes only. You can find metadata for this item below and download options to the right.</p>
-<p><i>Downloading via torrent is encouraged.</i></p>
-<p>For more information about this project and a complete list of all archived drivers, please visit <a href="https://github.com/nvidiavgpuarchive/hub" rel="ugc nofollow">nvidiavgpuarchive/hub</a>.</p>
-<hr />
-```

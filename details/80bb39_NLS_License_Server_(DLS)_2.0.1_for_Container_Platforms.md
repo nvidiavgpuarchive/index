@@ -21,7 +21,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `7683f1963f5b92d853d98087714ef30b`
+*MD5 Checksum: `7683f1963f5b92d853d98087714ef30b`*
 
 ```text
 nls-2.0.1-bios/dls_appliance_2.0.1.tar.gz

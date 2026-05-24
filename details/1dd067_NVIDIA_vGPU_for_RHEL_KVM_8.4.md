@@ -25,7 +25,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `8a05fd96fe95f793aefc495da9052255`
+*MD5 Checksum: `8a05fd96fe95f793aefc495da9052255`*
 
 ```text
 NVIDIA-GRID-RHEL-8.4-470.63-470.63.01-471.68/

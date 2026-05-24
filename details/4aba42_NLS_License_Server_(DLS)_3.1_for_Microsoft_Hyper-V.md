@@ -21,7 +21,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `21cd3ba1222322ad1be12a0abea2a364`
+*MD5 Checksum: `21cd3ba1222322ad1be12a0abea2a364`*
 
 ```text
 nls-3.1.0-bios-hyper-v/

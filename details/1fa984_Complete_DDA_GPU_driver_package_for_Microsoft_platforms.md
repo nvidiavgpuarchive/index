@@ -25,7 +25,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `928c2cac69fc649328e1f4f9b9273b09`
+*MD5 Checksum: `928c2cac69fc649328e1f4f9b9273b09`*
 
 ```text
 NVIDIA-GRID-Windows-470.63.01-471.68/

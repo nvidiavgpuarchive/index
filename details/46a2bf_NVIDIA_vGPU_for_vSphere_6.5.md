@@ -25,7 +25,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `c0942d231ec99abf627cc5536c809604`
+*MD5 Checksum: `c0942d231ec99abf627cc5536c809604`*
 
 ```text
 418.196-418.197.02-427.33-grid-gpumodeswitch-user-guide.pdf

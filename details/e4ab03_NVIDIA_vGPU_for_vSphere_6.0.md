@@ -25,7 +25,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `fd123c32da1a297eb7b96a175e13f02c`
+*MD5 Checksum: `fd123c32da1a297eb7b96a175e13f02c`*
 
 ```text
 384.73-385.4-grid-vgpu-user-guide.pdf

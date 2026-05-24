@@ -22,7 +22,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `d44e33087f527a3799e418f5aff58517`
+*MD5 Checksum: `d44e33087f527a3799e418f5aff58517`*
 
 ```text
 gpumodeswitch

@@ -25,7 +25,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `86564f6ea5b5b569a6e9f6b8a15641a7`
+*MD5 Checksum: `86564f6ea5b5b569a6e9f6b8a15641a7`*
 
 ```text
 NVIDIA-GRID-vSphere-6.5-470.63-470.63.01-471.68/

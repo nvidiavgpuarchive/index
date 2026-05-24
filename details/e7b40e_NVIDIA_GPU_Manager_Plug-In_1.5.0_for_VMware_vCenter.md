@@ -25,7 +25,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `faacb096715373a702a8bf8225f73726`
+*MD5 Checksum: `faacb096715373a702a8bf8225f73726`*
 
 ```text
 nvidia-gpu-manager-for-vmware-vcenter-release-notes.pdf

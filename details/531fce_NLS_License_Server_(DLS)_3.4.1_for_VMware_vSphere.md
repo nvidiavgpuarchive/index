@@ -22,7 +22,7 @@
 
 #### Zip Content
 
-**MD5 Checksum**: `a58874dcce1b58fbece71dd9019ec5dc`
+*MD5 Checksum: `a58874dcce1b58fbece71dd9019ec5dc`*
 
 ```text
 nls-3.4.1-bios.ova
