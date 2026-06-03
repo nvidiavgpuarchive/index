@@ -1,0 +1,36 @@
+# trigger the github.io site to rebuild on push of this repo
+# will need to set WEBPAGE_REBUILD_TOKEN PAT in secrets, with Contents R/W permissions
+name: Trigger Webpage Rebuild
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check rebuild token
+        env:
+          WEBPAGE_REBUILD_TOKEN: ${{ secrets.WEBPAGE_REBUILD_TOKEN }}
+        run: |
+          if [ -z "${WEBPAGE_REBUILD_TOKEN}" ]; then
+            echo "Missing WEBPAGE_REBUILD_TOKEN secret."
+            exit 1
+          fi
+
+      - name: Trigger GitHub Pages rebuild
+        env:
+          WEBPAGE_REBUILD_TOKEN: ${{ secrets.WEBPAGE_REBUILD_TOKEN }}
+        run: |
+          curl --fail-with-body \
+            --request POST \
+            --header "Authorization: Bearer ${WEBPAGE_REBUILD_TOKEN}" \
+            --header "Accept: application/vnd.github+json" \
+            --header "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/nvidiavgpuarchive/nvidiavgpuarchive.github.io/dispatches \
+            --data '{"event_type":"index-updated","client_payload":{"source_repo":"nvidiavgpuarchive/index","source_sha":"${{ github.sha }}","source_ref":"${{ github.ref_name }}"}}'

@@ -1,5 +1,5 @@
 
-[NonDriver](/README.md)  >  [Microsoft Hyper-V](/index/NonDriver/Microsoft_Hyper-V.md)  >  [2021-08-24](/index/NonDriver/Microsoft_Hyper-V/2021-08-24.md)  >  **NLS License Server (DLS) 1.0 for Microsoft Hyper-V**
+[NonDriver](/README.md)  >  [Microsoft Hyper-V](/index/NonDriver/Microsoft_Hyper-V.md)  >  **NLS License Server (DLS) 1.0 for Microsoft Hyper-V**
 
 
 ### nls-1.0.0-bios-hyper-v.zip

@@ -1,5 +1,5 @@
 
-[NonDriver](/README.md)  >  [Linux KVM](/index/NonDriver/Linux_KVM.md)  >  [2026-01-23](/index/NonDriver/Linux_KVM/2026-01-23.md)  >  **NLS License Server (DLS) 3.1.8 for Linux KVM**
+[NonDriver](/README.md)  >  [Linux KVM](/index/NonDriver/Linux_KVM.md)  >  **NLS License Server (DLS) 3.1.8 for Linux KVM**
 
 
 ### nls-3.1.8-bios-KVM.zip

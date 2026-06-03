@@ -1,5 +1,5 @@
 
-[NonDriver](/README.md)  >  [VMware vSphere](/index/NonDriver/VMware_vSphere.md)  >  [2024-03-21](/index/NonDriver/VMware_vSphere/2024-03-21.md)  >  **NLS License Server (DLS) 3.3 for VMware vSphere**
+[NonDriver](/README.md)  >  [VMware vSphere](/index/NonDriver/VMware_vSphere.md)  >  **NLS License Server (DLS) 3.3 for VMware vSphere**
 
 
 ### nls-3.3.0-bios-ESXi.zip

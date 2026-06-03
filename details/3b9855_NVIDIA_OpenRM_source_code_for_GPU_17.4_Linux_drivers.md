@@ -1,5 +1,5 @@
 
-[NonDriver](/README.md)  >  [Linux](/index/NonDriver/Linux.md)  >  [2024-10-22](/index/NonDriver/Linux/2024-10-22.md)  >  **NVIDIA OpenRM source code for GPU 17.4 Linux drivers**
+[NonDriver](/README.md)  >  [Linux](/index/NonDriver/Linux.md)  >  [NVIDIA OpenRM Source](/index/NonDriver/Linux/NVIDIA_OpenRM_Source.md)  >  **NVIDIA OpenRM source code for GPU 17.4 Linux drivers**
 
 
 ### nvgpu_NVIDIA-kernel-module-source-550.127.06.tar.xz

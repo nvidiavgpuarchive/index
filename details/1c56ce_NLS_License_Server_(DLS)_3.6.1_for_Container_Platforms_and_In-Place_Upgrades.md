@@ -1,5 +1,5 @@
 
-[NonDriver](/README.md)  >  [Container](/index/NonDriver/Container.md)  >  [2026-04-29](/index/NonDriver/Container/2026-04-29.md)  >  **NLS License Server (DLS) 3.6.1 for Container Platforms and In-Place Upgrades**
+[NonDriver](/README.md)  >  [Container](/index/NonDriver/Container.md)  >  **NLS License Server (DLS) 3.6.1 for Container Platforms and In-Place Upgrades**
 
 
 ### nls-3.6.1-bios.zip

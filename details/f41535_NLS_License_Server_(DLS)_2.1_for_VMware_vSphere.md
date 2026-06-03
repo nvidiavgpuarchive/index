@@ -1,5 +1,5 @@
 
-[NonDriver](/README.md)  >  [VMware vSphere](/index/NonDriver/VMware_vSphere.md)  >  [2023-01-04](/index/NonDriver/VMware_vSphere/2023-01-04.md)  >  **NLS License Server (DLS) 2.1 for VMware vSphere**
+[NonDriver](/README.md)  >  [VMware vSphere](/index/NonDriver/VMware_vSphere.md)  >  **NLS License Server (DLS) 2.1 for VMware vSphere**
 
 
 ### nvgpu_nls-2.1.0-bios-ESXi.zip

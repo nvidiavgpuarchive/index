@@ -1,5 +1,5 @@
 
-[NonDriver](/README.md)  >  [Red Hat Enterprise Linux OS](/index/NonDriver/Red_Hat_Enterprise_Linux_OS.md)  >  [2026-01-23](/index/NonDriver/Red_Hat_Enterprise_Linux_OS/2026-01-23.md)  >  **NLS License Server (DLS) 3.6.0 - Container with Orchestrator Platform for Red Hat Enterprise Linux 8 OS**
+[NonDriver](/README.md)  >  [Red Hat Enterprise Linux OS](/index/NonDriver/Red_Hat_Enterprise_Linux_OS.md)  >  **NLS License Server (DLS) 3.6.0 - Container with Orchestrator Platform for Red Hat Enterprise Linux 8 OS**
 
 
 ### nls-3.6.0-bios-RHEL-8-Hybrid.zip

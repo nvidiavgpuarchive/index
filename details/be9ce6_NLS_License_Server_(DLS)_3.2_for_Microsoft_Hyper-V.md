@@ -1,5 +1,5 @@
 
-[NonDriver](/README.md)  >  [Microsoft Hyper-V](/index/NonDriver/Microsoft_Hyper-V.md)  >  [2023-10-20](/index/NonDriver/Microsoft_Hyper-V/2023-10-20.md)  >  **NLS License Server (DLS) 3.2 for Microsoft Hyper-V**
+[NonDriver](/README.md)  >  [Microsoft Hyper-V](/index/NonDriver/Microsoft_Hyper-V.md)  >  **NLS License Server (DLS) 3.2 for Microsoft Hyper-V**
 
 
 ### nls-3.2.0-bios-hyper-v.zip

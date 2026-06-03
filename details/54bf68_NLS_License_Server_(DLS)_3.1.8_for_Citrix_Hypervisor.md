@@ -1,5 +1,5 @@
 
-[NonDriver](/README.md)  >  [Citrix Hypervisor](/index/NonDriver/Citrix_Hypervisor.md)  >  [2026-01-23](/index/NonDriver/Citrix_Hypervisor/2026-01-23.md)  >  **NLS License Server (DLS) 3.1.8 for Citrix Hypervisor**
+[NonDriver](/README.md)  >  [Citrix Hypervisor](/index/NonDriver/Citrix_Hypervisor.md)  >  **NLS License Server (DLS) 3.1.8 for Citrix Hypervisor**
 
 
 ### nls-3.1.8-bios-XenServer.zip
