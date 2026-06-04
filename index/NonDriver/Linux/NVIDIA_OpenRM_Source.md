@@ -3,8 +3,8 @@
 
 
 
-| Description            | Product Version    | Platform                | Platform Version           | Release Date           |             Actions              |
-| ---------------------- | :----------------- | :---------------------- | -------------------------- | :--------------------- | :------------------------------: |
+| Description | Product Version | Platform | Platform Version | Release Date | Actions |
+| --- | --- | --- | --- | --- | :---: |
 | NVIDIA OpenRM source code for vGPU 17.1 and NVIDIA AI Enterprise 5.0 Linux guest driver | 550.54.15 | Linux | All Supported | 2024-03-18 | [View Details](/details/dd07ac_NVIDIA_OpenRM_source_code_for_vGPU_17.1_and_NVIDIA_AI_Enterprise_5.0_Linux_guest_driver.md) |
 | NVIDIA OpenRM source code for GPU 17.5 Linux Drivers | 570.86.16 | Linux | All Supported | 2025-01-25 | [View Details](/details/630da4_NVIDIA_OpenRM_source_code_for_GPU_17.5_Linux_Drivers.md) |
 | NVIDIA OpenRM source code for vGPU 18.0 Linux Drivers | 570.124.06 | Linux | All Supported | 2025-02-25 | [View Details](/details/900993_NVIDIA_OpenRM_source_code_for_vGPU_18.0_Linux_Drivers.md) |

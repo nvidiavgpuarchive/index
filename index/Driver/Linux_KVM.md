@@ -3,9 +3,9 @@
 
 
 
-| Platformversion | Last Updated |  Count | Filter | 
+| Platformversion | Last Updated |  Count | Browse | 
 |---|:-------:|:-------:|:----:| 
-| 7.5 | 2018-03-27|   1 |  [Apply](/index/Driver/Linux_KVM/7.5.md) |
-| 7.0 | 2017-12-11|   1 |  [Apply](/index/Driver/Linux_KVM/7.0.md) |
-| All Supported | 2026-04-28|   117 |  [Apply](/index/Driver/Linux_KVM/All_Supported.md) |
-| Linux KVM | 2020-02-03|   1 |  [Apply](/index/Driver/Linux_KVM/Linux_KVM.md) |
+| 7.5 | 2018-03-27|   1 |  [Browse](/index/Driver/Linux_KVM/7.5.md) |
+| 7.0 | 2017-12-11|   1 |  [Browse](/index/Driver/Linux_KVM/7.0.md) |
+| All Supported | 2026-04-28|   117 |  [Browse](/index/Driver/Linux_KVM/All_Supported.md) |
+| Linux KVM | 2020-02-03|   1 |  [Browse](/index/Driver/Linux_KVM/Linux_KVM.md) |

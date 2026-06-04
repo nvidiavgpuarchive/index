@@ -3,8 +3,8 @@
 
 
 
-| Description            | Product Version    | Platform                | Platform Version           | Release Date           |             Actions              |
-| ---------------------- | :----------------- | :---------------------- | -------------------------- | :--------------------- | :------------------------------: |
+| Description | Product Version | Platform | Platform Version | Release Date | Actions |
+| --- | --- | --- | --- | --- | :---: |
 | Complete vGPU 20.1 DDA GPU driver package for Microsoft platforms | 20.1 | Microsoft Hyper-V Server | All Supported | 2026-04-28 | [View Details](/details/0c3998_Complete_vGPU_20.1_DDA_GPU_driver_package_for_Microsoft_platforms.md) |
 | Complete vGPU 20.0 DDA GPU driver package for Microsoft platforms | 20.0 | Microsoft Hyper-V Server | All Supported | 2026-03-24 | [View Details](/details/406642_Complete_vGPU_20.0_DDA_GPU_driver_package_for_Microsoft_platforms.md) |
 | Complete vGPU 19.5 DDA GPU driver package for Microsoft platforms | 19.5 | Microsoft Hyper-V Server | All Supported | 2026-04-28 | [View Details](/details/925d0a_Complete_vGPU_19.5_DDA_GPU_driver_package_for_Microsoft_platforms.md) |

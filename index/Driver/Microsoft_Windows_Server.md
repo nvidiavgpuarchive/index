@@ -3,8 +3,8 @@
 
 
 
-| Description            | Product Version    | Platform                | Platform Version           | Release Date           |             Actions              |
-| ---------------------- | :----------------- | :---------------------- | -------------------------- | :--------------------- | :------------------------------: |
+| Description | Product Version | Platform | Platform Version | Release Date | Actions |
+| --- | --- | --- | --- | --- | :---: |
 | Complete vGPU 18.1 package for Microsoft Windows Server including supported guest drivers | 18.1 | Microsoft Windows Server | 2025 | 2025-04-17 | [View Details](/details/c44acb_Complete_vGPU_18.1_package_for_Microsoft_Windows_Server_including_supported_guest_drivers.md) |
 | Complete vGPU 18.0 (GPU-P) package for Microsoft Windows Server 2025 including supported guest drivers | 18.0 | Microsoft Windows Server | 2025 | 2025-03-03 | [View Details](/details/4619bb_Complete_vGPU_18.0_(GPU-P)_package_for_Microsoft_Windows_Server_2025_including_supported_guest_drivers.md) |
 | Complete vGPU 20.1 package for Microsoft Windows Server including supported guest drivers | 20.1 | Microsoft Windows Server | All Supported | 2026-04-28 | [View Details](/details/616c39_Complete_vGPU_20.1_package_for_Microsoft_Windows_Server_including_supported_guest_drivers.md) |

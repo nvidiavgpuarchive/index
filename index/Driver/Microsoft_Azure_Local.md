@@ -3,6 +3,6 @@
 
 
 
-| Platformversion | Last Updated |  Count | Filter | 
+| Platformversion | Last Updated |  Count | Browse | 
 |---|:-------:|:-------:|:----:| 
-| All Supported | 2026-04-28|   22 |  [Apply](/index/Driver/Microsoft_Azure_Local/All_Supported.md) |
+| All Supported | 2026-04-28|   22 |  [Browse](/index/Driver/Microsoft_Azure_Local/All_Supported.md) |

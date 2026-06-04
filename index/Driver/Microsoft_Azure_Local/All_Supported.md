@@ -3,8 +3,8 @@
 
 
 
-| Description            | Product Version    | Platform                | Platform Version           | Release Date           |             Actions              |
-| ---------------------- | :----------------- | :---------------------- | -------------------------- | :--------------------- | :------------------------------: |
+| Description | Product Version | Platform | Platform Version | Release Date | Actions |
+| --- | --- | --- | --- | --- | :---: |
 | Complete vGPU 20.1 package for Microsoft Azure Local including supported guest drivers | 20.1 | Microsoft Azure Local | All Supported | 2026-04-28 | [View Details](/details/605766_Complete_vGPU_20.1_package_for_Microsoft_Azure_Local_including_supported_guest_drivers.md) |
 | Complete vGPU 20.0 package for Microsoft Azure Local including supported guest drivers | 20.0 | Microsoft Azure Local | All Supported | 2026-03-24 | [View Details](/details/88bf87_Complete_vGPU_20.0_package_for_Microsoft_Azure_Local_including_supported_guest_drivers.md) |
 | Complete vGPU 19.5 package for Microsoft Azure Local including supported guest drivers | 19.5 | Microsoft Azure Local | All Supported | 2026-04-28 | [View Details](/details/99b41e_Complete_vGPU_19.5_package_for_Microsoft_Azure_Local_including_supported_guest_drivers.md) |

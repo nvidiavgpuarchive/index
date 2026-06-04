@@ -3,8 +3,8 @@
 
 
 
-| Description            | Product Version    | Platform                | Platform Version           | Release Date           |             Actions              |
-| ---------------------- | :----------------- | :---------------------- | -------------------------- | :--------------------- | :------------------------------: |
+| Description | Product Version | Platform | Platform Version | Release Date | Actions |
+| --- | --- | --- | --- | --- | :---: |
 | Complete vGPU 20.1 package for Ubuntu KVM including supported guest drivers | 20.1 | Ubuntu KVM | All Supported | 2026-04-28 | [View Details](/details/9da3a6_Complete_vGPU_20.1_package_for_Ubuntu_KVM_including_supported_guest_drivers.md) |
 | Complete vGPU 20.0 package for Ubuntu KVM including supported guest drivers | 20.0 | Ubuntu KVM | All Supported | 2026-03-24 | [View Details](/details/5771c8_Complete_vGPU_20.0_package_for_Ubuntu_KVM_including_supported_guest_drivers.md) |
 | Complete vGPU 19.5 package for Ubuntu KVM including supported guest drivers | 19.5 | Ubuntu KVM | All Supported | 2026-04-28 | [View Details](/details/ff20c2_Complete_vGPU_19.5_package_for_Ubuntu_KVM_including_supported_guest_drivers.md) |

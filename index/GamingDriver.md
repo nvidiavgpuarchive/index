@@ -3,7 +3,7 @@
 
 
 
-| Platformname | Last Updated |  Count | Filter | 
+| Platformname | Last Updated |  Count | Browse | 
 |---|:-------:|:-------:|:----:| 
-| Linux | 2026-05-29|   61 |  [Apply](/index/GamingDriver/Linux.md) |
-| Windows | 2026-05-29|   62 |  [Apply](/index/GamingDriver/Windows.md) |
+| Linux | 2026-05-29|   61 |  [Browse](/index/GamingDriver/Linux.md) |
+| Windows | 2026-05-29|   62 |  [Browse](/index/GamingDriver/Windows.md) |

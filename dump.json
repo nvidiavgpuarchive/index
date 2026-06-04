@@ -107610,5 +107610,43 @@
                 "560.81_Cloud_Gaming_win10_win11_server2022_dch_64bit_international.exe"
             ]
         }
+    },
+    "nvgpu_SourceC0de.zip": {
+        "identifier": "nvgpu_SourceC0de.zip",
+        "ia_meta": {
+            "addeddate": "2026-05-26 02:46:31",
+            "collection": [
+                "nvidiagpuarchive",
+                "softwarehistory"
+            ],
+            "collection_added": "softwarehistory",
+            "curation": "[curator]jscott@archive.org[/curator][date]20260526041453[/date][state][/state][comment]Moved automatically by CHARM Script Setting.[/comment]",
+            "identifier": "nvgpu_SourceC0de.zip",
+            "mediatype": "data",
+            "publicdate": "2026-05-26 02:46:31",
+            "title": "nvgpu_SourceC0de.zip",
+            "uploader": "nvidiavgpuarchive@protonmail.com"
+        },
+        "meta": {
+            "downloadId": "318fc9a8-b987-45e2-a5a7-164df636d0d3",
+            "description": "NLS License Server (DLS) for Ubuntu OS",
+            "name": "DLS Ubuntu Source",
+            "releaseDate": "2022-08-29",
+            "downloadType": "Image",
+            "linkType": "Current",
+            "platformName": "DLS Base OS",
+            "category": "NonDriver"
+        },
+        "file": {
+            "size": 2372579546,
+            "md5": "d41af8561a20ddd44df402b64f219bda",
+            "sha1": "a6ce9264355ee472d10fc36bf94e959dde6b6569",
+            "sha256": "171f4e8067914b9fc1cc54f60adca9abd836d838cc15261a0b7bce478163c068",
+            "sha512": "9429b62a63663963987fda1b959e3aa25d39591b4d4e114e458e8afa3218365c9605adb7c0ec74eef280c873c513bd32b2ff172295f1e5e11cb96494140a4f7b",
+            "blake2b": "1c6a96631fdade6aaa4c9ab9a97a3622ef1dd9cc82013b6b131a56b636bc193250b2b268a55b27173dafd4d5ff7a42a59b62d6f38544c033e4d7e518209adc6e",
+            "filenames": [
+                "SourceCode.zip"
+            ]
+        }
     }
 }

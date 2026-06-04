@@ -3,8 +3,8 @@
 
 
 
-| Description            | Product Version    | Platform                | Platform Version           | Release Date           |             Actions              |
-| ---------------------- | :----------------- | :---------------------- | -------------------------- | :--------------------- | :------------------------------: |
+| Description | Product Version | Platform | Platform Version | Release Date | Actions |
+| --- | --- | --- | --- | --- | :---: |
 | NVIDIA GPU Manager Plug-In 1.5.0 for VMware vCenter | 1.5.0 | VMware vCenter | All Supported | 2024-06-28 | [View Details](/details/e7b40e_NVIDIA_GPU_Manager_Plug-In_1.5.0_for_VMware_vCenter.md) |
 | NVIDIA GPU Manager Plug-In 2.0.0 for VMware vCenter | 2.0.0 | VMware vCenter | All Supported | 2025-02-18 | [View Details](/details/e5b1b3_NVIDIA_GPU_Manager_Plug-In_2.0.0_for_VMware_vCenter.md) |
 | NVIDIA GPU Manager Plug-In 1.6.0 for VMware vCenter | 1.6.0 | VMware vCenter | All Supported | 2024-11-19 | [View Details](/details/dbaab0_NVIDIA_GPU_Manager_Plug-In_1.6.0_for_VMware_vCenter.md) |

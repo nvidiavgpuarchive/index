@@ -3,8 +3,8 @@
 
 
 
-| Description            | Product Version    | Platform                | Platform Version           | Release Date           |             Actions              |
-| ---------------------- | :----------------- | :---------------------- | -------------------------- | :--------------------- | :------------------------------: |
+| Description | Product Version | Platform | Platform Version | Release Date | Actions |
+| --- | --- | --- | --- | --- | :---: |
 | NVIDIA vGPU for UVP | 5.2 | Huawei UVP | 210 | 2018-01-17 | [View Details](/details/b0b647_NVIDIA_vGPU_for_UVP.md) |
 | NVIDIA vGPU for UVP | 5.1 | Huawei UVP | 210 | 2017-11-10 | [View Details](/details/35c1a0_NVIDIA_vGPU_for_UVP.md) |
 | NVIDIA vGPU for UVP | 5.0 | Huawei UVP | 210 | 2017-09-01 | [View Details](/details/37ff5b_NVIDIA_vGPU_for_UVP.md) |

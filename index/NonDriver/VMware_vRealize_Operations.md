@@ -3,8 +3,8 @@
 
 
 
-| Description            | Product Version    | Platform                | Platform Version           | Release Date           |             Actions              |
-| ---------------------- | :----------------- | :---------------------- | -------------------------- | :--------------------- | :------------------------------: |
+| Description | Product Version | Platform | Platform Version | Release Date | Actions |
+| --- | --- | --- | --- | --- | :---: |
 | NVIDIA Virtual GPU Management Pack For VRealize Operations 3.3 | 3.3 | VMware vRealize Operations | vRealize Operations | 2024-09-19 | [View Details](/details/235063_NVIDIA_Virtual_GPU_Management_Pack_For_VRealize_Operations_3.3.md) |
 | NVIDIA Virtual GPU Management Pack for vRealize Operations 2.0 | 2.0 | VMware vRealize Operations | vRealize Operations | 2020-05-20 | [View Details](/details/aafbc2_NVIDIA_Virtual_GPU_Management_Pack_for_vRealize_Operations_2.0.md) |
 | NVIDIA Virtual GPU Management Pack for vRealize Operations 1.1 | 1.1 | VMware vRealize Operations | vRealize Operations | 2019-11-05 | [View Details](/details/01732e_NVIDIA_Virtual_GPU_Management_Pack_for_vRealize_Operations_1.1.md) |

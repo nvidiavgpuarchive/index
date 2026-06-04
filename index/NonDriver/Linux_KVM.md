@@ -3,8 +3,8 @@
 
 
 
-| Description            | Product Version    | Platform                | Platform Version           | Release Date           |             Actions              |
-| ---------------------- | :----------------- | :---------------------- | -------------------------- | :--------------------- | :------------------------------: |
+| Description | Product Version | Platform | Platform Version | Release Date | Actions |
+| --- | --- | --- | --- | --- | :---: |
 | NVIDIA vGPU for Linux KVM 8.2 | 11.0 | Linux KVM | 8.2 | 2020-07-08 | [View Details](/details/e0668a_NVIDIA_vGPU_for_Linux_KVM_8.2.md) |
 | NLS License Server (DLS) 3.6.1 for Linux KVM |  | Linux KVM |  | 2026-04-29 | [View Details](/details/d52a74_NLS_License_Server_(DLS)_3.6.1_for_Linux_KVM.md) |
 | NLS License Server (DLS) 3.6.0 for Linux KVM |  | Linux KVM |  | 2026-01-23 | [View Details](/details/ee6f12_NLS_License_Server_(DLS)_3.6.0_for_Linux_KVM.md) |
