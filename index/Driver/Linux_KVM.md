@@ -3,7 +3,7 @@
 
 
 
-| Platformversion | Last Updated |  Count | Browse | 
+| Platformversion | Last Updated |  Count | | 
 |---|:-------:|:-------:|:----:| 
 | 7.5 | 2018-03-27|   1 |  [Browse](/index/Driver/Linux_KVM/7.5.md) |
 | 7.0 | 2017-12-11|   1 |  [Browse](/index/Driver/Linux_KVM/7.0.md) |

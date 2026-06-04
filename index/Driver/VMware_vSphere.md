@@ -3,7 +3,7 @@
 
 
 
-| Platformversion | Last Updated |  Count | Browse | 
+| Platformversion | Last Updated |  Count | | 
 |---|:-------:|:-------:|:----:| 
 | 9.0 | 2026-04-28|   12 |  [Browse](/index/Driver/VMware_vSphere/9.0.md) |
 | 8.0 | 2026-04-28|   40 |  [Browse](/index/Driver/VMware_vSphere/8.0.md) |

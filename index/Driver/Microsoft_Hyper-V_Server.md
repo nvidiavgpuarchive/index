@@ -3,7 +3,7 @@
 
 
 
-| Platformversion | Last Updated |  Count | Browse | 
+| Platformversion | Last Updated |  Count | | 
 |---|:-------:|:-------:|:----:| 
 | 2022 | 2023-01-23|   14 |  [Browse](/index/Driver/Microsoft_Hyper-V_Server/2022.md) |
 | 2019 | 2023-01-23|   52 |  [Browse](/index/Driver/Microsoft_Hyper-V_Server/2019.md) |

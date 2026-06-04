@@ -3,7 +3,7 @@
 
 
 
-| Platformversion | Last Updated |  Count | Browse | 
+| Platformversion | Last Updated |  Count | | 
 |---|:-------:|:-------:|:----:| 
 | 5.11 | 2022-01-31|   13 |  [Browse](/index/Driver/Nutanix_AHV/5.11.md) |
 | 5.10 | 2022-01-31|   13 |  [Browse](/index/Driver/Nutanix_AHV/5.10.md) |

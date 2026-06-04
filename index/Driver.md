@@ -3,7 +3,7 @@
 
 
 
-| Platformname | Last Updated |  Count | Browse | 
+| Platformname | Last Updated |  Count | | 
 |---|:-------:|:-------:|:----:| 
 | Citrix Hypervisor | 2025-06-17|   229 |  [Browse](/index/Driver/Citrix_Hypervisor.md) |
 | Citrix XenServer | 2025-01-16|   22 |  [Browse](/index/Driver/Citrix_XenServer.md) |

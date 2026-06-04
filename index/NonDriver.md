@@ -3,7 +3,7 @@
 
 
 
-| Platformname | Last Updated |  Count | Browse | 
+| Platformname | Last Updated |  Count | | 
 |---|:-------:|:-------:|:----:| 
 | vGPU Driver Catalog | 2025-05-28|   1 |  [Browse](/index/NonDriver/vGPU_Driver_Catalog.md) |
 | Citrix Hypervisor | 2026-04-29|   23 |  [Browse](/index/NonDriver/Citrix_Hypervisor.md) |

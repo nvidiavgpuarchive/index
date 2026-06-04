@@ -3,7 +3,7 @@
 
 
 
-| Platformversion | Last Updated |  Count | Browse | 
+| Platformversion | Last Updated |  Count | | 
 |---|:-------:|:-------:|:----:| 
 | 10.1 | 2026-04-28|   5 |  [Browse](/index/Driver/Red_Hat_Enterprise_Linux_KVM/10.1.md) |
 | 10.0 | 2026-04-28|   12 |  [Browse](/index/Driver/Red_Hat_Enterprise_Linux_KVM/10.0.md) |

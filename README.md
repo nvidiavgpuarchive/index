@@ -3,8 +3,8 @@
   <br/>
   <p><i> NVIDIA vGPU Archive is a project inspired by <a href = "https://msdn.itellyou.cn/" >MSDN ITellYou</a> </i></p>
 
-<img src="https://flat.badgen.net/static/Last Updated/2026-05-29/green" /> <img src="https://flat.badgen.net/static/Total Size/2.46 TB/red" /> <img src="https://flat.badgen.net/static/Driver Counts/1613/blue" /> <img src="https://flat.badgen.net/static/Cloud Gaming Driver Count/123/purple" /> <img src="https://flat.badgen.net/static/Non-Driver Count/173/black" /> <img src="https://flat.badgen.net/static/Duplicate Ratio/11.16%25/orange" />
-
+<img src="https://flat.badgen.net/static/Last Updated/2026-05-29/green" /> <img src="https://flat.badgen.net/static/Total Size/2.46 TB/red" /> <img src="https://flat.badgen.net/static/Duplicate Ratio/11.16%25/orange" />  
+<img src="https://flat.badgen.net/static/Driver Counts/1613/blue" /> <img src="https://flat.badgen.net/static/Cloud Gaming Driver Count/123/purple" /> <img src="https://flat.badgen.net/static/Non-Driver Count/173/black" /> 
 
 </div>
 
@@ -14,7 +14,7 @@ The **vGPU Archive Index** is an open catalog of NVIDIA vGPU drivers and related
 
 The index is generated from the archive database and updated periodically after files are downloaded, uploaded, and verified.
 
-## Browse
+## Web Index
 
 For faster search and filtering, use the web interface:
 
@@ -28,17 +28,11 @@ You can also browse the Markdown index below.
 - Open a detail page to view metadata, checksums, filenames, and download links.
 - Prefer torrent downloads when possible; Internet Archive provides both torrent and HTTP options.
 
-## Archive Sections
-
-- **Drivers**: NVIDIA vGPU driver packages from the enterprise portal.
-- **Cloud Gaming Drivers**: NVIDIA gaming and cloud guest drivers listed from the public AWS S3 bucket.
-- **Non-Drivers / Misc**: license servers, catalogs, management tools, documentation, and related files.
-
 ## Index
 
 ### Drivers
 
-| Platform Name | Last Updated |   Latest Entry |  Count | Browse | 
+| Platform Name | Last Updated |   Latest Entry |  Count | | 
 |---|:-------:|:-------:|:----:|:---:|  
 | Citrix Hypervisor | 2025-06-17|    [View Latest](/details/2c5630_Complete_vGPU_18.3_package_for_Citrix_Hypervisor_8.2_including_supported_guest_drivers.md) |  229 |  [Browse](/index/Driver/Citrix_Hypervisor.md) |
 | Citrix XenServer | 2025-01-16|    [View Latest](/details/52280a_Complete_vGPU_17.5_package_for_Citrix_XenServer_8_including_supported_guest_drivers.md) |  22 |  [Browse](/index/Driver/Citrix_XenServer.md) |
@@ -56,19 +50,9 @@ You can also browse the Markdown index below.
 | XenServer | 2026-04-28|    [View Latest](/details/fcebdf_Complete_vGPU_20.1_package_for_XenServer_8.4_including_supported_guest_drivers.md) |  22 |  [Browse](/index/Driver/XenServer.md) |
 
 
-### Cloud Gaming Drivers 
-
-These drivers are indexed from NVIDIA's public [AWS S3 gaming driver listing](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/nvidia-gaming-driver.html). They are listed separately because their metadata shape differs from enterprise vGPU portal releases.
-
-| Platform Name | Last Updated |   Latest Entry |  Count | Browse | 
-|---|:-------:|:-------:|:----:|:---:|  
-| Linux | 2026-05-29|    [View Latest](/details/25c4ae_595.71.05-April2026-Cloud_Gaming-Linux-Guest-Drivers.zip.md) |  61 |  [Browse](/index/GamingDriver/Linux.md) |
-| Windows | 2026-05-29|    [View Latest](/details/179cfd_596.36_Cloud_Gaming_win10_win11_server2022_dch_64bit_international.exe.md) |  62 |  [Browse](/index/GamingDriver/Windows.md) |
-
-
 ### Non-Drivers / Misc
 
-| Platform Name | Last Updated |  Count | Browse | 
+| Platform Name | Last Updated |  Count | | 
 |---|:-------:|:-------:|:----:| 
 | vGPU Driver Catalog | 2025-05-28|   1 |  [Browse](/index/NonDriver/vGPU_Driver_Catalog.md) |
 | Citrix Hypervisor | 2026-04-29|   23 |  [Browse](/index/NonDriver/Citrix_Hypervisor.md) |
@@ -84,3 +68,13 @@ These drivers are indexed from NVIDIA's public [AWS S3 gaming driver listing](ht
 | VMware vRealize Operations | 2024-09-19|   7 |  [Browse](/index/NonDriver/VMware_vRealize_Operations.md) |
 | VMware vSphere | 2026-04-29|   23 |  [Browse](/index/NonDriver/VMware_vSphere.md) |
 | OTHER | 2020-01-10|   1 |  [Browse](/index/NonDriver/OTHER.md) |
+
+
+### Cloud Gaming Drivers 
+
+These drivers are indexed from NVIDIA's public [AWS S3 gaming driver listing](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/nvidia-gaming-driver.html). They provide host and GRID vGaming support for devices including Tesla P40, P4, T10, T4, V100 PCIE 32GB, RTX 8000, RTX 6000.  
+
+| Platform Name | Last Updated |   Latest Entry |  Count | | 
+|---|:-------:|:-------:|:----:|:---:|  
+| Linux | 2026-05-29|    [View Latest](/details/3ec58f_610.43.02-May2026-Cloud_Gaming-Linux-Guest-Drivers.zip.md) |  61 |  [Browse](/index/GamingDriver/Linux.md) |
+| Windows | 2026-05-29|    [View Latest](/details/495e94_610.47_Cloud_Gaming_win10_win11_server2022_dch_64bit_international.exe.md) |  62 |  [Browse](/index/GamingDriver/Windows.md) |

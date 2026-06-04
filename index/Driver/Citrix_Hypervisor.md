@@ -3,7 +3,7 @@
 
 
 
-| Platformversion | Last Updated |  Count | Browse | 
+| Platformversion | Last Updated |  Count | | 
 |---|:-------:|:-------:|:----:| 
 | 8.2 | 2025-06-17|   64 |  [Browse](/index/Driver/Citrix_Hypervisor/8.2.md) |
 | 8.1 | 2020-11-05|   8 |  [Browse](/index/Driver/Citrix_Hypervisor/8.1.md) |
